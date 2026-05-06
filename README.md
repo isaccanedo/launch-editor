@@ -1,4 +1,4 @@
-# launch-editor
+## launch-editor
 
 Open file with line numbers in editor from Node.js.
 
